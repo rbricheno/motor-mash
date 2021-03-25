@@ -10,5 +10,5 @@ The centre of the axle is the same as on a TT motor. I'm hopping that will let m
 
 You'll need to mirror the STL and then print that and the original to get a pair of brackets, one for each side, as they aren't symetrical.
 
-I didn't model the "nub" on the side of the TT geatbox (yet) as my kit doesn't require that, and so for me it would only get in the way.
+I didn't model the "nub" on the side of the TT gearbox (yet) as my kit doesn't require that, and so for me it would only get in the way.
 
