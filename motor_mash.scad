@@ -107,24 +107,24 @@ wire_shaft();
 difference() {
 translate([5,0.15,0]) color("green") cube([10,18.3,22.5], center=true);
 
-translate([5,0,9]) rotate([90,0,0]) cylinder(h=40, d=3.1, center=true, $fn=20);
+translate([5,0,8.6]) rotate([90,0,0]) cylinder(h=40, d=3.1, center=true, $fn=20);
 
 
-translate([5,0,-9]) rotate([90,0,0]) cylinder(h=40, d=3.1, center=true, $fn=20);
+translate([5,0,-8.6]) rotate([90,0,0]) cylinder(h=40, d=3.1, center=true, $fn=20);
 wire_shaft();
 }
 
 // This is the little clip to hold the wires and provide a litle strain relief on the back
 
-translate([-1.75,0,8])
-cube([1.5,8,5],center=true);
+translate([-1.75,0,7.5])
+cube([1.5,8,4],center=true);
 
-translate([0,-3,8])
-cube([2,2,5],center=true);
+translate([0,-3,7.5])
+cube([2,2,4],center=true);
 
-   translate([-0.3,3.3,10.5])
+   translate([-0.3,3.3,9.5])
 rotate([0,90,90])
-   prism(5, 0.7, 0.7);
+   prism(4, 0.7, 0.7);
 
 //****************************************************************************
 
