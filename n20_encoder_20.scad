@@ -2,8 +2,8 @@ difference() {
 union() {
 cylinder(r=13,h=1,center=true, $fn=120);
 
-translate([0,0,3]) 
-cylinder(r=1.5,h=7,center=true, $fn=120);
+translate([0,0,2]) 
+cylinder(r=1.5,h=5,center=true, $fn=120);
 
 }
 cylinder(r=0.625,h=20,center=true, $fn=12);
