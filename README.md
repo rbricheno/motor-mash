@@ -1,6 +1,6 @@
 # The amazing Motor Mash Motor Mount!
 
-This lets you mount N20 gearmotors (a.k.a. "micro metal gearmotors") on some things like "smart car" robot kits that are designed to take TT gearmotors (the cheap ones with yellow plastic gearboxes). This provides an "upgrade path" for people with an otherwise nice robot that is stuck with yellow motors.
+This is a set of 3D printed parts that let you mount N20 gearmotors (a.k.a. "micro metal gearmotors") on some things like "smart car" robot kits that are designed to take TT gearmotors (the cheap ones with yellow plastic gearboxes). It provides an "upgrade path" for people with an otherwise nice robot that is stuck with yellow motors.
 
 I used the motors with gearbox ratio 50:1 [(50:1 micro metal geamotor with extended back shatf that I used on Pimoroni store)](https://shop.pimoroni.com/products/micro-metal-gearmotor-extended-back-shaft?variant=3073681025). Don't get the "push header shims" to use with this, they won't fit.
 
